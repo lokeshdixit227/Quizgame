@@ -1,9 +1,9 @@
 questions = [
-    "**Q1:** What is the capital of France?  
+    """**Q1:** What is the capital of France?  
 A. Berlin  
 B. Madrid  
 C. Paris  
-D. Rome",
+D. Rome""",
     """**Q2:** Which planet is known as the Red Planet?  
 A. Earth  
 B. Mars  
