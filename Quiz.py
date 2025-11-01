@@ -26,7 +26,7 @@ C. Purple
 D. Blue"""
 ]
 ans=["a","b","b","b","b"]
-st.title("🧠 Quiz App")
+st.write("🧠 Quiz App")
 sum=0
 for i in range (0,5):
     st.write(questions[i])
