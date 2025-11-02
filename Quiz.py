@@ -4,8 +4,8 @@ import streamlit as st
 def gq():
     st.write(f"hello Mr. {uname}")
     st.title("🧠 Quiz App")
-    q= ["""**Q1:** What is the capital of India?
-        A. Mumbai
+    q= ["""**Q1:** What is the capital of India?\n
+        A. Mumbai\t
         B. Kolkata
         C. New Delhi
         D. Chennai""",
@@ -94,4 +94,4 @@ uname=st.text_input("enter your name")
 gq()
 but=st.sidebar.button("restart")
 if but==1:
-    del.ua
+    
