@@ -96,12 +96,15 @@ uname=st.text_input("enter your name")
 # st.sidebar.button("Restart")
 st.sidebar.markdown("RESET MENU")
 opt = st.sidebar.button("🔄 Reset Quiz")
-if opt != True:
-   ua.clear()
-   st.rerun()
+if opt == True:
+    gq()
+   #  ua.clear()
+   # st.rerun()
 else:
+    ua.clear()
+    st.rerun()
     # ua.clear()
-   gq() 
+    
 
 
 
