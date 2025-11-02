@@ -10,50 +10,50 @@ def gq():
     \nC. New Delhi
     \nD. Chennai""",
          """**Q2:** Who painted the Mona Lisa?
-        A. Vincent van Gogh
-        B. Leonardo da Vinci
-        C. Pablo Picasso
-        D. Claude Monet""",
+       \n A. Vincent van Gogh
+        \nB. Leonardo da Vinci
+        \nC. Pablo Picasso
+        \nD. Claude Monet""",
          """**Q3:** What is the chemical symbol for water?
-         A. o2
-         B. co2
-         C. h2o
-         D. nacl""",
+         \nA. o2
+         \nB. co2
+         \nC. h2o
+         \nD. nacl""",
          """**Q4:** Which is the largest continent by land area?
-         A. Africa
-         B. North America
-         C. Asia
-         D. Europe """,
+         \nA. Africa
+         \nB. North America
+         \nC. Asia
+         \nD. Europe """,
          """**Q5:** Which of these is a primary color?
-         A. Green
-         B. Orange
-         C. Purple
-         D. Blue """,
+        \n A. Green
+         \nB. Orange
+         \nC. Purple
+         \nD. Blue """,
          """**Q6:** What is the currency of the United States?
-         A. Euro
-         B. Yen
-         C. Dollar
-         D. Pound""",
+        \n A. Euro
+         \nB. Yen
+         \nC. Dollar
+         \nD. Pound""",
          """**Q7:** Which planet is known as the Red Planet?
-         A. Earth
-         B. Mars
-         C. Jupiter
-         D. Saturn""",
+         \nA. Earth
+         \nB. Mars
+         \nC. Jupiter
+         \nD. Saturn""",
          """**Q8:** How many colors are in a rainbow?
-         A. 5
-         B. 6
-         C. 7
-         D. 8""",
+         \nA. 5
+         \nB. 6
+         \nC. 7
+         \nD. 8""",
          """**Q9:** Who invented the telephone?
-         a) Thomas Edison
-         b) Alexander Graham Bell
-         c) Nikola Tesla
-         d) Samuel Morse""",
+         \na) Thomas Edison
+         \nb) Alexander Graham Bell
+         \nc) Nikola Tesla
+         \nd) Samuel Morse""",
          """**Q10:** Which festival is known as the Festival of Lights?
-         a) Holi
-         b) Eid
-         c) Diwali
-         d) Christmas"""]
+         \na) Holi
+         \nb) Eid
+         \nc) Diwali
+         \nd) Christmas"""]
     ans = ["c", "b", "c", "c", "d", "c", "b", "c", "b", "c"]
     ua = []
     sum = 0
