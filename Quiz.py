@@ -92,6 +92,12 @@ def gq():
 uname=st.text_input("enter your name")
 # un()
 gq()
-st.sidebar.button("Restart")
-# if but==1:
+# st.sidebar.button("Restart")
+st.sidebar.markdown("RESET MENU")
+opt = st.sidebar.button("🔄 Reset Quiz")
+if opt != True:
+   gq()
+    # st.rerun()
+else:
+   ua.clear()
     
