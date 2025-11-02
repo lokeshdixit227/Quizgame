@@ -101,8 +101,8 @@ if opt == True:
    #  ua.clear()
    # st.rerun()
 else:
-    ua.clear()
-    # st.rerun()
+    # ua.clear()
+    st.rerun()
     # ua.clear()
     
 
