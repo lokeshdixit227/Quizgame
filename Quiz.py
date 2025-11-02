@@ -58,7 +58,7 @@ def gq():
 
     ua = []
     sum = 0
-    for i in range(10):
+    for i in range(len(q):
         st.write(q[i])
         uas = st.text_input("choose option...",key=i)
         st.write("---")
@@ -92,16 +92,15 @@ def gq():
 
 uname=st.text_input("enter your name")
 
-gq()
+# gq()
 # st.sidebar.button("Restart")
 st.sidebar.markdown("RESET MENU")
 opt = st.sidebar.button("🔄 Reset Quiz")
-if opt == True:
+if opt != True:
    ua.clear()
-   
-    st.rerun()
+   st.rerun()
 else:
-    ua.clear()
+    # ua.clear()
    gq() 
 
 
