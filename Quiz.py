@@ -1,9 +1,10 @@
 import streamlit as st
+st.title("🧠 Quiz App")
 #def un():
 
 def gq():
     st.write(f"hello Mr. {uname}")
-    st.title("🧠 Quiz App")
+   
     q= ["""**Q1:** What is the capital of India?
     \nA. Mumbai
     \nB. Kolkata
