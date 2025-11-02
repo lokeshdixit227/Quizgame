@@ -3,7 +3,7 @@ import streamlit as st
 
 def gq():
     st.write(f"hello Mr. {uname}")
-      st.title("🧠 Quiz App")
+    st.title("🧠 Quiz App")
     q= ["""**Q1:** What is the capital of India?
         A. Mumbai
         B. Kolkata
