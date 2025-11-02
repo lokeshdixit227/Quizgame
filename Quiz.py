@@ -6,8 +6,8 @@ def gq():
     st.title("🧠 Quiz App")
     q= ["""**Q1:** What is the capital of India?\n
         A. Mumbai\t
-        B. Kolkata
-        C. New Delhi
+        B. Kolkata\n
+        C. New Delhi\t
         D. Chennai""",
          """**Q2:** Who painted the Mona Lisa?
         A. Vincent van Gogh
@@ -92,6 +92,6 @@ def gq():
 uname=st.text_input("enter your name")
 # un()
 gq()
-but=st.sidebar.button("restart")
-if but==1:
+# but=st.sidebar.button("restart")
+# if but==1:
     
