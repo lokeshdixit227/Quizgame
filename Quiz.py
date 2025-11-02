@@ -92,5 +92,6 @@ def gq():
 uname=st.text_input("enter your name")
 # un()
 gq()
-st.sidebar.button("restart")
-
+but=st.sidebar.button("restart")
+if but==1:
+    del.ua
