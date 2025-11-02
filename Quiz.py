@@ -92,4 +92,5 @@ def gq():
 uname=st.text_input("enter your name")
 # un()
 gq()
+st.sidebar.button("restart")
 
