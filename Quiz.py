@@ -58,7 +58,7 @@ def gq():
 
     ua = []
     sum = 0
-    for i in range(len(q):
+    for i in range(10):
         st.write(q[i])
         uas = st.text_input("choose option...",key=i)
         st.write("---")
