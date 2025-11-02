@@ -4,7 +4,11 @@ import streamlit as st
 def gq():
     st.write(f"hello Mr. {uname}")
     st.title("🧠 Quiz App")
-    q= ["""**Q1:** What is the capital of India?\nA. Mumbai\tB. Kolkata\nC. New Delhi\tD. Chennai""",
+    q= ["""**Q1:** What is the capital of India?
+    \nA. Mumbai
+    \nB. Kolkata
+    \nC. New Delhi
+    \nD. Chennai""",
          """**Q2:** Who painted the Mona Lisa?
         A. Vincent van Gogh
         B. Leonardo da Vinci
