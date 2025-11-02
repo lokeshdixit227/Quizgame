@@ -65,7 +65,7 @@ def gq():
         ua.append(uas)
         if ua[i] == ans[i]:
             sum = sum + 10
-            st.balloons()
+            # st.balloons()
     st.write(sum)
     if sum == 100:
         st.write("you got 100 points you are topper")
@@ -102,7 +102,7 @@ if opt == True:
    # st.rerun()
 else:
     ua.clear()
-    st.rerun()
+    # st.rerun()
     # ua.clear()
     
 
