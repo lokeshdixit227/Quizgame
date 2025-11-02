@@ -95,9 +95,13 @@ gq()
 # st.sidebar.button("Restart")
 st.sidebar.markdown("RESET MENU")
 opt = st.sidebar.button("🔄 Reset Quiz")
-if opt != True:
-   gq()
-   st.rerun()
-else:
+if opt == True:
    ua.clear()
-    
+   
+   # st.rerun()
+else:
+   # ua.clear()
+   gq() 
+
+
+
